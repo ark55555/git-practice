@@ -4,3 +4,4 @@ hoge4
 hoge3
 hoge5
 hoge6
+test7
